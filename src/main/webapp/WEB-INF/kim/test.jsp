@@ -6,7 +6,6 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
-<body>
-
+<body>테스트테스트
 </body>
 </html>
