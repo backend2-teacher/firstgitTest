@@ -10,7 +10,7 @@
 				value="/WEB-INF/emp/mypage.jsp"/>
 	</definition>
 	<definition name="menu/insa" extends="mainTemplate">
-		<put-attribute name="menu"sdaf 
+		<put-attribute name="menasdfu"sdaf 
 				value="/WEB-INF/menu/insa_menu.jsp"/>
 		<put-attribute name="content" 
 				value="/WEB-INF/emp/mypage.jsp"/>
