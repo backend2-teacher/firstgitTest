@@ -12,8 +12,8 @@
 			var querydata = {"boardno":$("#boardno").val()}
 			$.ajax({
 				url:"/erp/ajax/exam01",
-				type:"get",
-				data:querydata,
+				type:"get"dddd,
+				data:querydata,ddd
 				dataType:"text",
 				success:success_run,
 				error:error_run

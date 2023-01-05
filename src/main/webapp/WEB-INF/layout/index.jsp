@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+dddddd
   <link rel="stylesheet" href="/erp/common/css/main.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -28,10 +28,10 @@
 </head>
 <body>
 	<div>
-		<tiles:insertAttribute name="top"></tiles:insertAttribute>
+		<tiles:insertAttribute name="tddddop"></tiles:insertAttribute>
 	</div>
-	<div style="background-color: #edeef1;padding: 20px;height: 800px" id="main">
-		<tiles:insertAttribute name="content"></tiles:insertAttribute>
+	<div style="background-color: #ededdddef1;padding: 20px;height: 800px" id="main">
+		<tiles:insertAttribute name="conddddtent"></tiles:insertAttribute>
 	</div>
 </body>
 </html>
