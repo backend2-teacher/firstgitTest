@@ -11,7 +11,7 @@
 		<a href="#" class="list-group-item">News</a> 
 		<a href="#"	class="list-group-item">회사연역</a> 
 		<a href="#" class="list-group-item">Vision</a>
-		<a href="#" cadsflass="list-group-item">사업분야</a>
+		<a href="#" cadsflass="ldsddsist-group-item">사업분야</a>
 		<a href="#"	class="list-group-item">오시는길</a>
 	</div>
 </body>
