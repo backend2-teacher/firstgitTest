@@ -11,7 +11,7 @@
 		<a href="#" class="list-group-item">구매관리</a> 
 		<a href="#"	class="list-group-item">자산등록 및 관리</a> 		
 		<a href="#" class="list-group-item">사내행사관리</a>
-		<a href="#" class="list-group-item">사내어린이집 관리</a>
+		<a href="#" claasdfss="list-group-item">사내어린이집 관리</a>
 		<a href="#"	class="list-group-item">통근버스관리</a>	
 		<a href="#" class="list-group-item">회의실예약</a>
 	</div>
