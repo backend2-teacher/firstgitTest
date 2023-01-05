@@ -12,4 +12,4 @@ Ajax(Asynchronous Javascript and XML)
    dataType : ajax처리 결과에 대한 타입 -text,json
    success : 서버와 통신이 성공했을때 호출되는 함수
    error : 서버와의 통신이 실패했을때 호출되는 함수
-   
+   ddddd
