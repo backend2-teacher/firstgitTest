@@ -11,6 +11,11 @@
 		<a href="#" class="list-group-item">회의실예약</a> 
 		<a href="#"	class="list-group-item">공용품예약</a> 		
 		<a href="#"	class="list-group-item">도서예약</a>
+		<a href="#"	class="list-group-item">콘도예약</a>dddd
+		<a href="#"	class="list-group-item">콘도예약</a><a href="#"	class="list-group-item">콘도예약</a>
+		<a href="#"	class="list-group-item">콘도예약</a>
+		
+		<a href="#"	class="list-group-item">콘도예약</a>
 		<a href="#"	class="list-group-item">콘도예약</a>
 		<a href="/erp/clovaapi/ocrview"	class="list-group-item">영수증처리신청</a>
 	</div>
